@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inkra&label=Profile%20views&color=05122A&style=flat" alt="inkra" /> </p>
 
-![followers](https://img.shields.io/github/followers/inkra?style=social)
-![stars](https://img.shields.io/github/stars/inkra?style=social)
+![followers](https://img.shields.io/github/followers/inkraandinifirmansyah?style=social)
+![stars](https://img.shields.io/github/stars/inkraandinifirmansyah?style=social)
 
 <!-- <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{inkra}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/> -->
 
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Inkra.Inkra)
-[![Github](https://img.shields.io/github/followers/Inkra?label=Follow&style=social)](https://github.com/Inkra) -->
+[![Github](https://img.shields.io/github/followers/Inkra?label=Follow&style=social)](https://github.com/Inkraandinifirmansyah) -->
 
 <!--
 **inkra/inkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
  
 <br>
 
-[![Behance Badge](https://img.shields.io/badge/-inkraandini-053eff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/inkraandini/)](https://www.behance.net/inkraandini/) [![Linkedin Badge](https://img.shields.io/badge/-inkraandini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inkra-andini-8556311b6/)](https://www.linkedin.com/in/inkra-andini-8556311b6//) [![Instagram Badge](https://img.shields.io/badge/-inkraandini__-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/inkraandini_/)](https://www.instagram.com/inkraandini_/) [![Gmail Badge](https://img.shields.io/badge/-inkra2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inkra2005@gmail.com)](mailto:inkra2005@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-inkra-orange?style=flat-square&logo=github&logoColor=white&link=https://https://github.com/inkra)](https://github.com/inkra) 
+[![Behance Badge](https://img.shields.io/badge/-inkraandini-053eff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/inkraandini/)](https://www.behance.net/inkraandini/) [![Linkedin Badge](https://img.shields.io/badge/-inkraandini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inkra-andini-8556311b6/)](https://www.linkedin.com/in/inkra-andini-8556311b6//) [![Instagram Badge](https://img.shields.io/badge/-inkraandini__-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/inkraandini_/)](https://www.instagram.com/inkraandini_/) [![Gmail Badge](https://img.shields.io/badge/-inkra2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inkra2005@gmail.com)](mailto:inkraandinifirmansyah@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-inkra-orange?style=flat-square&logo=github&logoColor=white&link=https://https://github.com/inkraandinifirmansyah)](https://github.com/inkra) 
   
 
 <br>
