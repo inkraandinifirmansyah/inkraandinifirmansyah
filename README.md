@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Inkra+Andini!;I'm+a+UI/UX+Enthusiast...;I'm+also+Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Inkra+Andini!;I'm+a+UI/UX+Designer...;)](https://git.io/typing-svg)
 
 <h3>About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h3>
 
 🧕 Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
-💻 I'm a full stack web developer <br>
-🎨 I'm a self-taught UI designer <br>
+🎨 I'm a UI/UX designer <br>
+💻 I'm a web developer <br>
 🏫 I'm a Engineering student at SMK Telkom Malang <br>
 🌐 You can see some of my projects on [my portfolio](https://inkraandini.editorx.io/portofolio) <br>
 📺 I make UI/UX content on [Instagram](https://www.instagram.com/uiux.inkra/) & [Behance](https://www.behance.net/inkraandini/projects) <br>
