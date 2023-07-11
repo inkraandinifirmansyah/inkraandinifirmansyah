@@ -4,20 +4,20 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Inkra Andini Firmansyah! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inkra&label=Profile%20views&color=05122A&style=flat" alt="inkra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inkraandinifirmansyah&label=Profile%20views&color=05122A&style=flat" alt="inkraandinifirmansyah" /> </p>
 
 ![followers](https://img.shields.io/github/followers/inkraandinifirmansyah?style=social)
 ![stars](https://img.shields.io/github/stars/inkraandinifirmansyah?style=social)
 
 <!-- <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{inkra}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{inkraandinifirmansyah}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/> -->
 
-<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Inkra.Inkra)
+<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Inkraandinifirmansyah.Inkraandinifirmansyah)
 [![Github](https://img.shields.io/github/followers/Inkra?label=Follow&style=social)](https://github.com/Inkraandinifirmansyah) -->
 
 <!--
-**inkra/inkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**inkraandinifirmansyah/inkraandinifirmansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -85,16 +85,16 @@ Here are some ideas to get you started:
 <tr border="0">
 <td width="50%" align="center">
   
-  <img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=inkra&theme=highcontrast&show_icons=true" />
+  <img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=inkraandinifirmansyah&theme=highcontrast&show_icons=true" />
   <br></br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=inkra&theme=highcontrast&show_icons=true" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=inkraandinifirmansyah&theme=highcontrast&show_icons=true" width = 500>
 
   
 </td>
 
 <td width="50%" align="center">
 
- <img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkra&theme=highcontrast&layout=compact&langs_count=10" />
+ <img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkraandinifirmansyah&theme=highcontrast&layout=compact&langs_count=10" />
   
   </td>
 </tr>
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 <div align="center">
  
      
-<img src="https://github-profile-trophy.vercel.app/?username=inkra&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=inkraandinifirmansyah&theme=juicyfresh&no-bg=true" />
 
 </div>
 </p>
@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 <br>
 <p align="centre">
   
-![github graph](https://activity-graph.herokuapp.com/graph?username=inkra&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=inkraandinifirmansyah&theme=react-dark)
       
       
       
